@@ -1,0 +1,47 @@
+<html>
+<body>
+<body background>
+<style>
+    body{
+    background-repeat: no-repeat;    
+    background-size: 100% 100%;
+    color: green;    
+    }      
+    </style>   
+<header>Mebenga&Company</header>
+<div class="form-content">    
+    <p>Mebenga&Company est un revendeur de Jeux video, basés à Douala. Vous pouver acheter des jeux à prix-bas en suivant les instruction:</p>
+    <li>Aller sur'Jeux' en dessous, et faites votre choix parmi les jeux proposé </li> 
+    <li>Vous serez diriger vers Google Mail. Vous devrez choisir l'heure et le jour ou vous pourrez récuperer le jeux</li>
+    <li>Le jour venue, vous vous rendrez à l'agence pour payer le jeux</li>
+    </div>
+    <div class="field button-field">
+        <button><a href="eto%2010.jpg">Jeux</a></button>
+    </div>
+    <footer>Pour plus d'information veuillez nous contacter aux </footer>       
+ </body>
+    </body>    
+<style>
+    header{
+     font-size: 48px;
+    font-weight: 500;
+    color: coral; 
+    text-align: center;    
+    }    
+    .field button{
+    background-color: aquamarine;    
+    box-sizing: border-box;
+    font-size: 30px; 
+    padding: 0 15px 0;    
+    }
+    .field button{
+    text-decoration: none;    
+        }
+    .field button a:hover{
+     text-decoration: underline;   
+        }
+    form{
+    margin: 30px;    
+    }
+    </style>
+</html>
